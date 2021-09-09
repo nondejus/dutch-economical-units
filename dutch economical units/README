@@ -48,7 +48,8 @@ huurtoeslag     :   € 200,00
               
 zorgtoeslag     :   €  86,00
 
-condition       :   https://en.wikipedia.org/wiki/Neuroleptic_malignant_syndrome
+medical         :   https://en.wikipedia.org/wiki/Neuroleptic_malignant_syndrome
+condition           https://en.wikipedia.org/wiki/Auditory_system
 sinds 2014          https://en.wikipedia.org/wiki/Neurodegeneration 
                     https://en.wikipedia.org/wiki/Catatonia
 
