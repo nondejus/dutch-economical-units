@@ -1,2 +1,0 @@
-# dutch-economical-units
-2002-2021 welfare
